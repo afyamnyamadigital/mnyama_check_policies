@@ -1,0 +1,42 @@
+{
+  "app_name": "Mnyama_Check",
+  "company": "Afya Mnyama Digital Co. Ltd",
+  "last_updated": "2024-01-22T10:00:00Z",
+  "website": "https://afyamnyamadigital.co.tz",
+  "support_email": "support@afyamnyamadigital.co.tz",
+  "policies": [
+    {
+      "id": "privacy_policy",
+      "name": "Privacy Policy",
+      "swahili_name": "Sera ya Faragha",
+      "current_version": "1.0.0",
+      "effective_date": "2024-01-22",
+      "en_url": "https://raw.githubusercontent.com/afyamnyama/legal-docs/main/.github/policies/en/privacy-policy.md",
+      "sw_url": "https://raw.githubusercontent.com/afyamnyama/legal-docs/main/.github/policies/sw/sera-ya-faragha.md",
+      "requires_acceptance": true,
+      "acceptance_context": "registration"
+    },
+    {
+      "id": "terms_conditions",
+      "name": "Terms and Conditions",
+      "swahili_name": "Masharti na Masharti ya Matumizi",
+      "current_version": "1.0.0",
+      "effective_date": "2024-01-22",
+      "en_url": "https://raw.githubusercontent.com/afyamnyama/legal-docs/main/.github/policies/en/terms-conditions.md",
+      "sw_url": "https://raw.githubusercontent.com/afyamnyama/legal-docs/main/.github/policies/sw/masharti-ya-matumizi.md",
+      "requires_acceptance": true,
+      "acceptance_context": "registration"
+    },
+    {
+      "id": "refunds_policy",
+      "name": "Refunds and Cancellations Policy",
+      "swahili_name": "Sera ya Kurejeshewa Fedha na Kufutwa",
+      "current_version": "1.0.0",
+      "effective_date": "2024-01-22",
+      "en_url": "https://raw.githubusercontent.com/afyamnyama/legal-docs/main/.github/policies/en/refunds-policy.md",
+      "sw_url": "https://raw.githubusercontent.com/afyamnyama/legal-docs/main/.github/policies/sw/sera-ya-kurejeshewa-fedha.md",
+      "requires_acceptance": false,
+      "acceptance_context": "payment"
+    }
+  ]
+}
