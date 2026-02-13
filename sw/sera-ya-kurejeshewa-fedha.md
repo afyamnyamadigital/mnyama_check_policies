@@ -189,14 +189,3 @@ Kwa maombi ya kurejeshewa deni au maswali kuhusu sera hii:
 📧 Barua pepe: support@azampay.co.tz  
 🌐 Tovuti: https://azampay.co.tz  
 📞 Simu: +255 767 111 106
-
----
-
-## Vidokezo Muhimu:
-
-1. **Uandishi wa Nyaraka:** Weka rekodi za miradala yote na mawasiliano
-2. **Muda:** Wasilisha maombi ya kurejeshewa deni ndani ya siku 30 tangu muamala
-3. **Ushirikiano:** Toa taarifa zilizoombwa haraka kwa usindikaji wa haraka
-4. **Mawasiliano:** Angalia barua pepe yako mara kwa mara kwa sasisho juu ya ombi lako
-
-Sera hii imeundwa kuwa haki kwa wateja wetu na biashara yetu huku ikiizingatia sheria za ulinzi wa watumiaji wa Tanzania.

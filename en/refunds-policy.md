@@ -188,14 +188,3 @@ For refund requests or questions about this policy:
 📧 Email: support@azampay.co.tz  
 🌐 Website: https://azampay.co.tz  
 📞 Phone: +255 767 111 106
-
----
-
-## Important Notes:
-
-1. **Documentation:** Keep records of all transactions and communications
-2. **Timeliness:** Submit refund requests within 30 days of the transaction
-3. **Cooperation:** Provide requested information promptly for faster processing
-4. **Communication:** Check your email regularly for updates on your request
-
-This policy is designed to be fair to both our customers and our business while complying with Tanzanian consumer protection laws.
